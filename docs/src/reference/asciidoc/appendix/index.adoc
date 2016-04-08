@@ -1,0 +1,6 @@
+
+include::resources.adoc[]
+
+include::license.adoc[]
+
+
